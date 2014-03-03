@@ -2,8 +2,8 @@
 layout: post
 title: "Snowing all the time"
 description: "Where this description will be shown"
-category: life
-tags: [life,中文]
+category: Life
+tags: [Life,中文]
 ---
 {% include JB/setup %}
 
